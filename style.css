@@ -1,0 +1,65 @@
+.box-blanc {
+	background: white;
+	box-shadow: 0px 15px 16px rgba(0, 0, 0, 0.2);
+	width: 700px;
+	margin: 60px auto;
+	border-radius: 4px;
+}
+
+body {
+	background-color: 03506f;
+}
+
+.text {
+	max-width: 650px;
+	padding-left:  25px;
+	max-height: 200px;
+	text-align: center;
+}
+
+.box-blanc p a {
+	padding-bottom: 10px;
+}
+
+#photo {
+	border-radius: 50%;
+    width: 200px;
+    padding: 25px;
+    padding-left: 250px;
+    padding-right: 250px;
+    }
+
+h1 {
+	text-align: center;
+	font-weight: 700;
+}
+
+h2 {
+	text-align: center;
+	/*margin: 0px auto;*/
+}
+
+a {
+	text-decoration: none;
+	color: blue;
+}
+
+a:hover {
+	color: red;
+}
+
+ul {
+	padding-inline-start: 250px;
+}
+
+li {
+	text-decoration: none;
+	display:inline;
+	padding-left: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.center {
+	text-align: center;
+}
