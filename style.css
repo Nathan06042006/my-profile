@@ -11,8 +11,8 @@ body {
 }
 
 .text {
-	max-width: 650px;
-	padding: 25px;
+	max-width: 75%;
+	padding: 25px 12.5%;
 	padding-top: 10px;
 	text-align: center;
 }
@@ -50,7 +50,7 @@ a:hover {
 }
 
 ul {
-	padding-inline-start: 12.5vw;
+	padding-inline-start: 13.8vw;
 }
 
 .logo {
